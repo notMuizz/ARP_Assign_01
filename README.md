@@ -1,5 +1,7 @@
 # ARP_Assign_01
 
+[Hafiz Muizz Ahmed Sethi](https://github.com/notMuizz)<br>
+[M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635)<br>
 
 ## Content of the Repository
 Apart from the *install.src* and *run.src* files, the repository is organized as follows:
