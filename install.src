@@ -1,0 +1,9 @@
+mkdir logfiles &
+
+gcc src/master.c -o bin/master
+gcc src/cmd.c -lncurses -o bin/cmd
+gcc src/inspection.c -lncurses -lm -o bin/inspection
+gcc src/mx.c -o bin/mx
+gcc src/mz.c -o bin/mz
+gcc src/worldxz.c -o bin/worldxz
+gcc src/watchdog.c -o bin/watchdog
