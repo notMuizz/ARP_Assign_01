@@ -57,23 +57,38 @@ Then, you can run the program by executing:
 chmod +x run.src
 ./run.src
 ```
+After successful execution two windows will appear:
+![Screenshot from 2023-06-19 13-30-46](https://github.com/notMuizz/ARP_Assign_01/assets/123844091/cfb60994-aa72-4dbc-99cc-f5283268499d)
+
 ### KONSOLE COMMAND
 
-**Vx+**: it increases horizontal velocity by 1
-**Vx-**: it decreases horizontal velecity by 1
-**STP**: it sets the horizontal velocity to zero
+**Vx+**: it increases horizontal velocity by 1 <br>
+**Vx-**: it decreases horizontal velocity by 1 <br>
+**STP**: it sets the horizontal velocity to zero <br>
 
-**Vz+**: it increase vertical velocity by 1
-**Vz-**: it decreases vertical velecity by 1
-**STP**: it sets the vertical velocity to zero
+**Vz+**: it increases vertical velocity by 1 <br>
+**Vz-**: it decreases vertical velocity by 1 <br>
+**STP**: it sets the vertical velocity to zero <br>
 
 The upper and lower upper limit of velocity is +3/-3
+
+By Pressing the Command Buttons and Reaching the target the final result displayed as under :
+![Screenshot from 2023-06-19 13-32-15](https://github.com/notMuizz/ARP_Assign_01/assets/123844091/466f5eee-ca5d-4b67-97ae-de4c7a8a6d18)
+   
+
 
 ### KONSOLE INSPECTION
 
 **S**: it stops both engines
 
 **R**: it resets the hoist to the initial position (0.00,0.00)
+
+A video representation of this assignment is also present :
+
+
+https://github.com/notMuizz/ARP_Assign_01/assets/123844091/21c4c358-b86b-4681-af0a-a0a42d3d21e6
+
+
 
 ## Troubleshooting
 Should you experience some weird behavior after launching the application (buttons not spawning inside the GUI or graphical assets misaligned) simply try to resize the terminal window, it should solve the bug.
